@@ -1,0 +1,81 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="_2doParcial.Abstract_Factory.AbstractFactory" Collapsed="true">
+    <Position X="9.5" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAAEAAAA=</HashCode>
+      <FileName>Creational Patterns\Abstract Factory\AbstractFactory.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="_2doParcial.Abstract_Factory.AbstractProductA" Collapsed="true">
+    <Position X="4.5" Y="4.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Creational Patterns\Abstract Factory\AbstractProductA.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="_2doParcial.Abstract_Factory.AbstractProductB" Collapsed="true">
+    <Position X="4.5" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Creational Patterns\Abstract Factory\AbstractProductA.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="_2doParcial.Abstract_Factory.Client" Collapsed="true">
+    <Position X="13" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAABAAAAAAAAAAAAAAAgAAAAAAAAAAAAAI=</HashCode>
+      <FileName>Creational Patterns\Abstract Factory\Client.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="_2doParcial.Abstract_Factory.ConcreteFactory1" Collapsed="true">
+    <Position X="8.25" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAAEAAAA=</HashCode>
+      <FileName>Creational Patterns\Abstract Factory\ConcreteFactory1.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="_2doParcial.Abstract_Factory.ConcreteFactory2" Collapsed="true">
+    <Position X="10.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAAEAAAA=</HashCode>
+      <FileName>Creational Patterns\Abstract Factory\ConcreteFactory2.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="_2doParcial.Abstract_Factory.MainApp" Collapsed="true">
+    <Position X="14.75" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Creational Patterns\Abstract Factory\MainApp.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="_2doParcial.Abstract_Factory.ProductA1" Collapsed="true">
+    <Position X="5.5" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Creational Patterns\Abstract Factory\ProductA1.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="_2doParcial.Abstract_Factory.ProductA2" Collapsed="true">
+    <Position X="3.25" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Creational Patterns\Abstract Factory\ProductA2.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="_2doParcial.Abstract_Factory.ProductB1" Collapsed="true">
+    <Position X="3.25" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Creational Patterns\Abstract Factory\ProductB1.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="_2doParcial.Abstract_Factory.ProductB2" Collapsed="true">
+    <Position X="5.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Creational Patterns\Abstract Factory\ProductB2.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

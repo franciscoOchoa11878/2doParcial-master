@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="_2doParcial.Structural_Patterns.Flyweight.Character" Collapsed="true">
+    <Position X="6" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>gAAIBAAAAAAAAAQAQAAAAQAAAAAAAAAAAIAAAAAAAAA=</HashCode>
+      <FileName>Structural Patterns\Flyweight\Character.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="_2doParcial.Structural_Patterns.Flyweight.CharacterA" Collapsed="true">
+    <Position X="3.75" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Structural Patterns\Flyweight\CharacterA.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="_2doParcial.Structural_Patterns.Flyweight.CharacterB" Collapsed="true">
+    <Position X="8.25" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Structural Patterns\Flyweight\CharacterB.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="_2doParcial.Structural_Patterns.Flyweight.CharacterFactory" Collapsed="true">
+    <Position X="10.75" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAIAAAAAAAAAAAAACAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Structural Patterns\Flyweight\CharacterFactory.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="_2doParcial.Structural_Patterns.Flyweight.CharacterZ" Collapsed="true">
+    <Position X="6" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Structural Patterns\Flyweight\CharacterZ.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="_2doParcial.Structural_Patterns.Flyweight.MainApp" Collapsed="true">
+    <Position X="12.5" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Structural Patterns\Flyweight\MainApp.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

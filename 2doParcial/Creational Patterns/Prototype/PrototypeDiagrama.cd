@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="_2doParcial.Prototype.Color" Collapsed="true">
+    <Position X="5.75" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BAAAAAAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAgAAABA=</HashCode>
+      <FileName>Creational Patterns\Prototype\Color.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="_2doParcial.Prototype.ColorManager" Collapsed="true">
+    <Position X="8.25" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAACAAAAAAAAAAAQAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Creational Patterns\Prototype\ColorManager.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="_2doParcial.Prototype.ColorPrototype" Collapsed="true">
+    <Position X="5.75" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABA=</HashCode>
+      <FileName>Creational Patterns\Prototype\ColorPrototype.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="_2doParcial.Prototype.MainApp" Collapsed="true">
+    <Position X="10" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Creational Patterns\Prototype\Main.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

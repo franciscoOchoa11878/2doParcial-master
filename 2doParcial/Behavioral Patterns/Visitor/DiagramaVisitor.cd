@@ -1,0 +1,76 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="_2doParcial.Behavioral_Patterns.Visitor.IncomeVisitor" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="12.75" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Behavioral Patterns\Visitor\ClaIncomeVisitor.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="_2doParcial.Behavioral_Patterns.Visitor.Clerk" Collapsed="true">
+    <Position X="4" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Behavioral Patterns\Visitor\Clerk.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="_2doParcial.Behavioral_Patterns.Visitor.Director" Collapsed="true">
+    <Position X="6.25" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Behavioral Patterns\Visitor\Clerk.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="_2doParcial.Behavioral_Patterns.Visitor.President" Collapsed="true">
+    <Position X="8.5" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Behavioral Patterns\Visitor\Clerk.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="_2doParcial.Behavioral_Patterns.Visitor.Element" Collapsed="true">
+    <Position X="6.25" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Behavioral Patterns\Visitor\Element.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="_2doParcial.Behavioral_Patterns.Visitor.Employee" Collapsed="true">
+    <Position X="6.25" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AIAgIAAAAAAAAAAAAAAAAAYAAAACAAAAAAAAAAAgAAA=</HashCode>
+      <FileName>Behavioral Patterns\Visitor\Employee.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="_2doParcial.Behavioral_Patterns.Visitor.Employees" Collapsed="true">
+    <Position X="11" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AIAAAAAAAAAAAAIAAAAAAAAAAIAAAAAAAAAAAAAgAAA=</HashCode>
+      <FileName>Behavioral Patterns\Visitor\Employees.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="_2doParcial.Behavioral_Patterns.Visitor.MainApp" Collapsed="true">
+    <Position X="11" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Behavioral Patterns\Visitor\MainApp.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="_2doParcial.Behavioral_Patterns.Visitor.VacationVisitor" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="12.75" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Behavioral Patterns\Visitor\VacationVisitor.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Interface Name="_2doParcial.Behavioral_Patterns.Visitor.IVisitor" Collapsed="true">
+    <Position X="11" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Behavioral Patterns\Visitor\IVisitor.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

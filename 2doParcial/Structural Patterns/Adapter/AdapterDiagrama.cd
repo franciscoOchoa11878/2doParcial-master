@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="_2doParcial.Structural_Patterns.Adapter.ChemicalDatabank" Collapsed="true">
+    <Position X="8.25" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAAACAAQAA=</HashCode>
+      <FileName>Structural Patterns\Adapter\ChemicalDatabank.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="_2doParcial.Structural_Patterns.Adapter.Compound" Collapsed="true">
+    <Position X="5.75" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAABAAAAIAAAACgAAAAAQAAAAAAAAAAAAAAAABAAAA=</HashCode>
+      <FileName>Structural Patterns\Adapter\Compound.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="_2doParcial.Structural_Patterns.Adapter.MainApp" Collapsed="true">
+    <Position X="10" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Structural Patterns\Adapter\MainApp.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="_2doParcial.Structural_Patterns.Adapter.RichCompound" Collapsed="true">
+    <Position X="5.75" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAQAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Structural Patterns\Adapter\RichCompound .cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

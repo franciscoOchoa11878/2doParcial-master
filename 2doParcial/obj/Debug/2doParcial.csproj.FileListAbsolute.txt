@@ -1,0 +1,2 @@
+C:\Users\SISTEMAS 231118\source\repos\2doParcial\2doParcial\obj\Debug\2doParcial.csprojAssemblyReference.cache
+C:\Users\SISTEMAS 231118\source\repos\2doParcial\2doParcial\obj\Debug\2doParcial.csproj.CoreCompileInputs.cache

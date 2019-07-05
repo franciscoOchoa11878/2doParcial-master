@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="_2doParcial.Structural_Patterns.Proxy.MainApp" Collapsed="true">
+    <Position X="6" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Structural Patterns\Proxy\MainApp.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="_2doParcial.Structural_Patterns.Proxy.Math" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="7.75" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAMAAAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAQ=</HashCode>
+      <FileName>Structural Patterns\Proxy\Math.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="_2doParcial.Structural_Patterns.Proxy.MathProxy" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="6" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAMAAAAAAAAAAAAgAAAAAAAABAAAAAAAAAAAAAAAAAQ=</HashCode>
+      <FileName>Structural Patterns\Proxy\MathProxy.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Interface Name="_2doParcial.Structural_Patterns.Proxy.IMath" Collapsed="true">
+    <Position X="6" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAMAAAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAQ=</HashCode>
+      <FileName>Structural Patterns\Proxy\IMath.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

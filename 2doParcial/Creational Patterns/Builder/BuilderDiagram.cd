@@ -1,0 +1,53 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="_2doParcial.Builder.CarBuilder" Collapsed="true">
+    <Position X="5.25" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAACIQAAAAAAAAAAAAAAgAAAAA=</HashCode>
+      <FileName>Creational Patterns\Builder\CarBuilder .cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="_2doParcial.Builder.MainApp" Collapsed="true">
+    <Position X="12.25" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Creational Patterns\Builder\MainApp.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="_2doParcial.Builder.MotorCycleBuilder" Collapsed="true">
+    <Position X="9.75" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAACIQAAAAAAAAAAAAAAgAAAAA=</HashCode>
+      <FileName>Creational Patterns\Builder\MotorCycleBuilder .cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="_2doParcial.Builder.ScooterBuilder" Collapsed="true">
+    <Position X="7.5" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAACIQAAAAAAAAAAAAAAgAAAAA=</HashCode>
+      <FileName>Creational Patterns\Builder\ScooterBuilder.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="_2doParcial.Builder.Shop" Collapsed="true">
+    <Position X="14" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Creational Patterns\Builder\Shop.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="_2doParcial.Builder.Vehicle" Collapsed="true">
+    <Position X="12.25" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAgACAAAAAAAAAAEAAAAAAAEAAAAAAA=</HashCode>
+      <FileName>Creational Patterns\Builder\Vehicle.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="_2doParcial.Builder.VehicleBuilder" Collapsed="true">
+    <Position X="7.5" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAACIQABAAAAAQAAAAAAgAAAAA=</HashCode>
+      <FileName>Creational Patterns\Builder\VehicleBuilder.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
